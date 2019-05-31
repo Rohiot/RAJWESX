@@ -1,12 +1,13 @@
 <!doctype html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>CHANKYA NEETI</title>
-    <style>
-        body{
-        background-color: lightgreen;
-        font-size: 20px;}
+    <title>CSS grouping elements</title>
+    <meta charset="utf-8">
+   <style>
+    body{
+    background-color: lightblue;
+    font-size: 20px;
+    }
         #ID1{
         font-size: 10em
         font-weight:bold;
@@ -25,6 +26,11 @@
         background-color : white;}
         #ID3{
        background-color : yellow;}
+       #DIV1{
+        background-color : pink;}
+        .yui{
+            color:red;
+        }
     </style>
 </head>
 <body>
@@ -36,7 +42,7 @@
 </h2>
 <h2>
     <ul>
-        <li class="C1"><a href="#ID4">Who was Chanakya</a></li>
+        <li class="C1"><a href="#ID4">Who was <span class="yui"> Chanakya </span></a></li>
         <li class="C1">His Works</li>
         <li class="C1">His Thoughts</li>
     </ul>
@@ -45,9 +51,9 @@
     <ol>
         <li class="LI">Who was Chankya</li>
     <p id="ID3">
-        One of the greatest figure of wisdom and knowledge in the Indian history is Chankaya.Chanakaya is regarded as a great thinker and diplomat at India who is traditionally identified as Kautalya or Vishnu Gupta.
+        <div id="DIV1">One of the greatest figure of wisdom and knowledge in the Indian history is Chankaya.Chanakaya is regarded as a great thinker and diplomat at India who is traditionally identified as Kautalya or Vishnu Gupta.
         Origanally a proffesor of Economics and political science at the ancuient Takshashila University, Chakaya managed the first Maurya Emperor Changragupta's rise to power at a young age.Instead of acquiring the seat of
-        kingdom for himself, he crowned Chandraguota aurya as the emporor and served as his chief adviser
+        kingdom for himself, he crowned Chandraguota aurya as the emporor and served as his chief adviser</div>
     </p>
        </ol>
 </h2>
