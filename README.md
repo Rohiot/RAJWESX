@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-<head>
+ <head>
     <title>CSS grouping elements</title>
     <meta charset="utf-8">
    <style>
@@ -32,9 +32,9 @@
             color:red;
         }
     </style>
-</head>
-<body>
-<h1 id="ID1">
+ </head>
+ <body>
+     <h1 id="ID1">
     <strong>CHANAKYA NEETI</strong>
 </h1>
 <h2 id="ID2">
@@ -58,5 +58,5 @@
        </ol>
 </h2>
 
-</body>
+ </body>
 </html>
