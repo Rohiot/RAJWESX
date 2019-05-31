@@ -1,6 +1,7 @@
+
 2.0<h1>Hello World!</h1>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>CHANKYA NEETI</title>
