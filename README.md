@@ -1,5 +1,3 @@
-
-2.0<h1>Hello World!</h1>
 <!DOCTYPE html>
 <html>
 <head>
