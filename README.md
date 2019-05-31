@@ -1,13 +1,12 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <html>
 <head>
     <meta charset="UTF-8">
     <title>CHANKYA NEETI</title>
     <style>
-    body{
-    background-color: lightblue;
-    font-size: 20px;
-    }
+        body{
+        background-color: lightblue;
+        font-size: 20px;}
         #ID1{
         font-size: 10em
         font-weight:bold;
@@ -30,7 +29,7 @@
 </head>
 <body>
 <h1 id="ID1">
-    <strong>CHANAKYA NEETI 2.0</strong>
+    <strong>CHANAKYA NEETI</strong>
 </h1>
 <h2 id="ID2">
     <p><a href="https://images-na.ssl-images-amazon.com/images/I/511zcxtdolL._SX320_BO1,204,203,200_.jpg" ><img src="https://images-na.ssl-images-amazon.com/images/I/511zcxtdolL._SX320_BO1,204,203,200_.jpg" height="500"></a></p>
@@ -55,5 +54,3 @@
 
 </body>
 </html>
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
